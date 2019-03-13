@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 release 001
 releaser002
+=======
+release 001
+>>>>>>> 修改master并创建release
